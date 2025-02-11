@@ -45,3 +45,10 @@ L'objectif principal de ce jeu est d'explorer les bases de la programmation grap
 ## Installation et Utilisation
 
 - Vous pouvez le cloner et l'utilisé avec Live-server, sinon il est déployer sur vercel à : https://loire-projetcanvas.vercel.app/
+
+## Problèmes rencontrés : 
+
+Différents problèmes lors de ce projet : 
+
+-Les hitbox qui ne m'ont pas aidé, des hitbox décalé et non fonctionnel qui ont obligé la modification du personnage (tout a était fix) ainsi que des problèmes avec les collisions au dépaert.
+-2eme problème, problème avec git, j'ai eu besoins de faire plusieurs repos privés avant de faire celui-ci (beaucoup de problèmes avec les commandes git et les branches). Ce projet m'a donc permis de m'améliorer sur ce point avec git/github.
